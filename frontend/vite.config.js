@@ -7,7 +7,7 @@ import react from '@vitejs/plugin-react'
 //          set base to '/ev-charging-assistant/'
 // For a custom domain or user/org page (username.github.io), set base to '/'
 // ============================================================
-const GITHUB_REPO_NAME = 'ev-charging-assistant' // <-- EDIT THIS
+const GITHUB_REPO_NAME = 'EV-Assistant' 
 
 export default defineConfig(({ mode }) => ({
   plugins: [react()],
